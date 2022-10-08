@@ -1,0 +1,6 @@
+current usage of the term big data tends to refer to the use of predictive analytics, user behavior analysis certain other advanced data analytics methods that extracts value from big data and seldom t0 particular size of data set. 
+"there little doubt that the quantities of data now available are indeed large, but that's not the most relevant characteristic of this new data ecosystem."
+[4] analysis of data can find new correlations to "spot business trends, prevent diseases, combat crime and so on".
+[5]​ scientists, business executives, medical practitioners, advertising and governments alike regularly meet difficulties data-sets in areas including internet searches, fintech, healthcare analytics, geographic information systems, urban informatics, and business informatics. 
+scientists encounter limitations in e-science work, including meteorology, genomics,[6] connectomics, complex physics simulations, biology, and environmental research.[7]
+******end -of file******
